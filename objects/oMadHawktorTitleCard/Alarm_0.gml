@@ -1,0 +1,1 @@
+room_goto(mad_hawktor);
